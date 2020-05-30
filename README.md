@@ -2,8 +2,6 @@
 Sentiment prediction using the bert embeddings
 
 
-https://ai.stanford.edu/~amaas/data/sentiment/
-
 In this project, I trained my model on the IMDB movie review dataset. Dataset can be downloaded
 from https://ai.stanford.edu/~amaas/data/sentiment/ . dataset_generate.py file creates the shuffled 
 csv file for train and test data. Data of this csv file is then used in main.py file for creating
